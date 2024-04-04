@@ -1,0 +1,51 @@
+Nassim Nayef Salman Fuda,26,Hebron,1/30/2023,M,Single
+Khayri Musa Khayri Alkam,21,East Jerusalem,1/27/2023,M,Married
+Wasim Amjad 'Aref Abu J'aus,16,Jenin,1/26/2023,M,Single
+'Abdallah Marwan Jum'ah Musa,17,Jenin,1/26/2023,M,Married
+Mu'tasem Mahmoud Ahmad Abu Hassan,36,Jenin,1/26/2023,M,Single
+Nur Sami Muhammad Ghneim,22,Jenin,1/26/2023,M,Married
+Saaeb 'Issam Mahmoud Zreiqi,25,Jenin,1/26/2023,M,Single
+Muhammad Mahmoud Muhammad Subuh,34,Jenin,1/26/2023,M,Single
+'Iz a-Din Yasin Jum'ah Salahat,21,Jenin,1/26/2023,M,Married
+Majedah 'Abd al-Fatah Mahmoud 'Obeid,60,Jenin,1/26/2023,F,Single
+Muhammad Sami Muhammad Ghneim,34,Jenin,1/26/2023,M,Single
+'Omar Tareq 'Ali a-S'adi,24,Jenin,1/29/2023,M,Married
+Yusef Yihya 'Abd al-Karim Muheisen,22,al-Quds,1/26/2023,M,Single
+'Aref 'Abd a-Naser 'Aref Lahlouh,20,Tulkarm,1/25/2023,M,Single
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,17,East Jerusalem,1/27/2023,M,Married
+Muhammad 'Abed Musa Muhammad 'Ali,18,East Jerusalem,1/25/2023,M,Single
+'Amru Khaled Lutfi al-Khmur,14,Bethlehem,1/16/2023,M,Single
+Adham Muhammad Bassem Jabarin,26,Jenin,1/19/2023,M,Married
+Jawad Farid Hussein Bawaqnah,57,Jenin,1/19/2023,M,Single
+Hamdi Shaker Ahmad Abu Diyah,40,Hebron,1/17/2023,M,Married
+Ahmad Hassan 'Abd al-Jalil Kahalah,45,Ramallah and al-Bira,1/15/2023,M,Single
+Amjad 'Adnan Ahmad Khaliliya,20,Jenin,1/14/2023,M,Married
+'Iz a-Din Bassem Ghaleb Hamamreh,22,Jenin,1/14/2023,M,Single
+'Abd al-Hadi Fakhri Yusef Nazzal,18,Jenin,1/12/2023,M,Married
+Habiballah Muhammad 'Abd a-Rahman Kmeil,26,Jenin,1/12/2023,M,Single
+Samir 'Awni Harbi Aslan,41,al-Quds,1/12/2023,M,Married
+Ahmad 'Amer Salim Abu Jneid,21,Nablus,1/11/2023,M,Married
+'Amer Ghazi Mahmoud Zaytun,16,Nablus,1/5/2023,M,Married
+Adam 'Issam Shaker 'Ayad,15,Bethlehem,1/3/2023,M,Married
+Muhammad Samer Hassan Hushiyeh,21,Jenin,1/2/2023,M,Married
+Fouad Mahmoud Ahmad A'bed,17,Jenin,1/2/2023,M,Married
+Yazan Samer 'Izzat al-Ja'bari,19,Jenin,1/14/2023,M,Single
+Ahmad 'Atef Mustafa Daraghmeh,23,Nablus,12/22/2022,M,Single
+Jana Majdi 'Issam 'Assaf,15,Jenin,12/11/2022,F,Married
+Sidqi Sadiq Fayeq Jabur (Zakarnah),19,Jenin,12/8/2022,M,Single
+Tareq Fawzi 'Issa Salem (a-Damaj),26,Jenin,12/8/2022,M,Single
+'Ata Yasin Mahmoud Shalabi,46,Jenin,12/8/2022,M,Married
+Diyaa Muhammad Shafiq Rahimi,16,Ramallah and al-Bira,12/8/2022,M,Single
+Mujahed Mahmoud Jum'ah Hamed,32,Ramallah and al-Bira,12/7/2022,M,Married
+'Omar Yusef Hassan Manna',22,Bethlehem,12/5/2022,M,Single
+'Ammar Hamdi Nayef Muflih,23,Nablus,12/2/2022,M,Married
+Na'im Jamal 'Abd a-Rahman Zbeidi,34,Jenin,12/1/2022,M,Married
+Muhammad Ayman Shafi' Qassem,22,Jenin,12/1/2022,M,Single
+Muhammad Tawfiq Shaker Badarnah,27,Jenin,11/30/2022,M,Married
+Rani Maamun Fayez Abu 'Ali,45,Ramallah and al-Bira,11/29/2022,M,Single
+Jawad 'Abd a-Rahman 'Abd al-Jawad Rimawi,22,Ramallah and al-Bira,11/29/2022,M,Married
+Zafer 'Abd a-Rahman 'Abd al-Jawad Rimawi,19,Ramallah and al-Bira,11/29/2022,M,Married
+Raed Ghazi 'Eid Na'asan,21,Ramallah and al-Bira,11/29/2022,M,Single
+Mufid Muhammad Mahmoud Khlayel,44,Hebron,11/29/2022,M,Single
+Muhammad Hisham Muhammad Abu Kishk,23,Nablus,11/23/2022,M,Married
+
